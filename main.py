@@ -1,5 +1,6 @@
 import parse, acquire, read_file, mailer
 
+
 def main():
 
     # Obtain weather data
@@ -14,8 +15,7 @@ def main():
     mailing_list = read_file.read_file(csv_file)
 
     # Sending the emails
-    # mailer.mail(mailing_list,output)
-
+    mailer.mail(mailing_list, output)
 
 
 main()
