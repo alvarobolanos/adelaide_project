@@ -9,6 +9,7 @@ def read_file(input_file):
             (key, value) = (line.strip()).split(', ')
             dictionary.update({key: value})
         file.close()
+
         return dictionary
 
     except FileNotFoundError as error:

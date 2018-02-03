@@ -1,5 +1,6 @@
 import requests
 
+
 def acquire():
 
     # Communication setup
