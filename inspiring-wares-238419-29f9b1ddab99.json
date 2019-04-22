@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "inspiring-wares-238419",
+  "private_key_id": "29f9b1ddab99ed28a9f4fde4c3a8a84b17f6377c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNShHXML2BoPw3\ncNmz6LEpICJ2hip52JtzOOxP+pVvF8L626ZTMKXHapf173rSI/h8cmQ0WtCt/0lQ\nRjY0thg1GxfLfr2UnBtTQWxnM1PDaygwvfupmK55nx41cEXcTULcwzvmMQ0KXAnQ\nvfCrL6CMN+/t3Cus9+gemoo+rFZpkyD0oIS5YRVpxzaUnEp7IWWO3EWrMhvNp48S\na/WTqwuc7Pw7eOhuF/x05kMuD7BlugOOpyQEJ9HzSzyl1i4TVD6D5yNLhCa6IkW6\nKjK/dinAr8g1+CxqKNXhUmptxljryOVngxshTZbKrcTMlFY7+4z2GXC+EVr4e0Xa\nUBDshEV/AgMBAAECggEADqYU7NKVCz12EeyzFDPsBF+/Jc8AE+7BdPDgZ/qdFC7R\nYn4u+au0gKzaCBodHQalEhhFjzjVwDzBugEwmAVQZ+W1hndWRtb22jOGbTzL4ttw\nJD5CSYFUHeidSrnmukgnF8K0sQHaCN21c5hCJq0A21CYhdQap76O6TQk3kEE74aH\nwH3rGrTiK15vwhlQ5b9jAPFy8aWB4KZUzQzRSIFkdJDH5Efa7VuI4eNNZyxvO9t0\nRpo3JiK57GxzneC4CYdFkfvoXz8+MAKZEvNoK+C+0DFROIdboC5ISjLBhhnU/ZNG\njpW3u65CYHVt1d1jN4JfKpSjpRm+JQB0mSZzm0kFVQKBgQD/ZvjHS9lzTyN0g7Wm\nghdhE6S86QARPbNOj8IzXYm2pSLHpldwmdYM+nZeg0NRWYX0/TPMzn+oWQDc/R/w\nW1zaiNsOCQN5g94Epw17ejG5lXY+ZSwtHLqYwfxA8polZ9uSNpxcAsNVy/EhGqR5\njnaRwQh3Scl5Gu58j044bOvZdQKBgQDNxRJtK2cDjtnIAOmKwr9A+vWhmyrQY/wq\nNamMffgdDS5UmmZZaI4fdrRb+m3dWS/4qxj5vwLIyJvhyiQHyM9XbkemZjAgrQpq\nNd/PGFQxfi3GCj57NVlpPs+DLvPd7n6oPXMWTRkuevvnpBM4g0gERQjANWN8cV/r\ngDaoUAuQowKBgQDIVC98u1zj2kY4JPs9kLrf1TWZS7VW0KutSouMGKllTuAZ87qQ\nQsonwelItvL9gxfUkyqnUa3GEZHgxNbhg/gwHbqcpqtIDAwAYDvuB2mrZLWruVXO\nSMOAAGBpXSFVh8ItTJKWhUBMMrx/N9Oc2QbdyqhmUMUsLdi0cP9suNrB5QKBgQCZ\n3qdTyWPj7jt+aug44j5AKinp6e1PHaVgLvaVX1Fc8BFYJIkqjJvSfWKLcS4cmmfb\n7J3li+daG2Etq4nb5Fbfy1B65ulQVfV2zMiKxWeYBwHVmK12VsOAhv6H22Fy8Lf3\nuNPJtmeBMWgTpMbWuJzuzGypxoKZePJAWYUFwa2UPwKBgQDkzXZcTXpmYBRjvY5i\nRT1PR94xH4AW4vxPHFuXWu8ry2py3M6L8/vQzJlp9vnOGngeUzA8M18zc+4zKT14\nkBGQFa/X31noEIR3KPtOiyBtahifuXiTJWNjR1uX8IS+wo+IhWRKx/cDbBLbWRjx\nxrHY75IDPiYyEhYuI8WkdDJeyQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "accessgdrive@inspiring-wares-238419.iam.gserviceaccount.com",
+  "client_id": "105920314307691615057",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accessgdrive%40inspiring-wares-238419.iam.gserviceaccount.com"
+}
