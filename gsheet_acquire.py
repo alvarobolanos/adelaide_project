@@ -16,3 +16,9 @@ name_list = wks.col_values(1)
 email_list = wks.col_values(2)
 
 print(f"{wks.cell(1,1).value}, {wks.cell(1,2).value}")
+
+"""
+for i in wks.range('A1:A5'):
+    for j in wks.range('B1:B5'):
+        print(f"{wks.cell(i,j).value}, {wks.cell(i,j+1).value}")
+"""
